@@ -35,4 +35,6 @@ I have attached my resume for your review and would welcome the opportunity to d
 Thank you for your time and consideration.
 
 Sincerely,  
+![](signature.png)
+
 Drake Austin
